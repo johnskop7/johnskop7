@@ -50,7 +50,7 @@ Python · PyTorch · NumPy · Pandas · scikit-learn · C/C++ · MATLAB · SQL �
 
 ## 📫 Contact
 
-- LinkedIn: [Ioannis Litsos](www.linkedin.com/in/ioannis-litsos)
+- LinkedIn: [Ioannis Litsos](https://www.linkedin.com/in/ioannis-litsos/)
 - GitHub: [johnskop7](https://github.com/johnskop7)
 
 
