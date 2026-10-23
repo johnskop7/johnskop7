@@ -35,6 +35,7 @@ Deep-learning projects covering neural-network architectures, training, and comp
 
 ## 🧠 Areas of Interest
 
+- Artificial Intelligence
 - Machine Learning
 - Deep Learning
 - Computer Vision
